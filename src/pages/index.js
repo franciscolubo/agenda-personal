@@ -1,2 +1,3 @@
-export default function Index() {  return <div>Hola Francisco Perez</div>;
+export default function Index() {
+  return <div>Chau Francisco Perez</div>;
 }
